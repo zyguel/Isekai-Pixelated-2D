@@ -1,0 +1,83 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1700313052
+icon.svg::CompressedTexture2D::7092983735060185083::1700310379::1700310384::1::::<><>::
+::res://art/::1700316513
+::res://art/Basic Undead Animations/::1700316513
+::res://art/Basic Undead Animations/Bound Cadaver/::1700316512
+BoundCadaver.png::CompressedTexture2D::6397589627906402812::1700312233::1700316515::1::::<><>::
+::res://art/Basic Undead Animations/Brittle Archer/::1700316512
+BrittleArcher.png::CompressedTexture2D::3548088718528775783::1700312233::1700316515::1::::<><>::
+::res://art/Basic Undead Animations/Carcass Feeder/::1700316512
+CarcassFeeder.png::CompressedTexture2D::3712748096132771471::1700312233::1700316515::1::::<><>::
+::res://art/Basic Undead Animations/Decrepit Bones/::1700316512
+DecrepitBones.png::CompressedTexture2D::723891843676570340::1700312233::1700316515::1::::<><>::
+::res://art/Basic Undead Animations/Dismembered Crawler/::1700316512
+DismemberedCrawler.png::CompressedTexture2D::7425400777265662731::1700312233::1700316515::1::::<><>::
+::res://art/Basic Undead Animations/Ghastly Eye/::1700316512
+GhastlyEye.png::CompressedTexture2D::3538497812605053411::1700312233::1700316515::1::::<><>::
+::res://art/Basic Undead Animations/Giant Royal Scarab/::1700316512
+GiantRoyalScarab.png::CompressedTexture2D::3380574889076210783::1700312233::1700316515::1::::<><>::
+::res://art/Basic Undead Animations/Grave Revenant/::1700316512
+GraveRevenant.png::CompressedTexture2D::3663156071154060888::1700312233::1700316515::1::::<><>::
+::res://art/Basic Undead Animations/Mutilated Stumbler/::1700316512
+MutilatedStumbler.png::CompressedTexture2D::4047717269982068505::1700312233::1700316515::1::::<><>::
+::res://art/Basic Undead Animations/Royal Scarab/::1700316513
+RoyalScarab.png::CompressedTexture2D::2434402140517146566::1700312233::1700316515::1::::<><>::
+::res://art/Basic Undead Animations/Sand Ghoul/::1700316513
+SandGhoul.png::CompressedTexture2D::3176542700468705863::1700312233::1700316515::1::::<><>::
+::res://art/Basic Undead Animations/Skittering Hand/::1700316513
+SkitteringHand.png::CompressedTexture2D::8994376645158896353::1700312233::1700316515::1::::<><>::
+::res://art/Basic Undead Animations/Toxic Hound/::1700316513
+ToxicHound.png::CompressedTexture2D::2965269486766710367::1700312234::1700316515::1::::<><>::
+::res://art/Basic Undead Animations/Unraveling Crawler/::1700316513
+UnravelingCrawler.png::CompressedTexture2D::969659319431782084::1700312234::1700316515::1::::<><>::
+::res://art/Basic Undead Animations/Vampire Bat/::1700316513
+VampireBat.png::CompressedTexture2D::4667277905870250241::1700312234::1700316515::1::::<><>::
+::res://art/Basic Undead Sprites/::1700316513
+Basic Undead 1x.png::CompressedTexture2D::3440904604494855040::1700312234::1700316515::1::::<><>::
+Basic Undead 2x.png::CompressedTexture2D::6778570030953740051::1700312234::1700316515::1::::<><>::
+Basic Undead 4x.png::CompressedTexture2D::5301651918818955017::1700312234::1700316515::1::::<><>::
+::res://art/characters/::1700310553
+player.png::CompressedTexture2D::509417889113656904::1700309190::1700310553::1::::<><>::
+skeleton.png::CompressedTexture2D::2546630368983956241::1700309190::1700310553::1::::<><>::
+slime.png::CompressedTexture2D::6897351855440532824::1700309190::1700310553::1::::<><>::
+::res://art/objects/::1700310553
+chest_01.png::CompressedTexture2D::3730452942487618447::1700309190::1700310553::1::::<><>::
+chest_02.png::CompressedTexture2D::1867478309352845963::1700309190::1700310553::1::::<><>::
+objects.png::CompressedTexture2D::1031139215492126701::1700309191::1700310553::1::::<><>::
+rock_in_water_01-sheet.png::CompressedTexture2D::6711977996144103978::1700309191::1700310553::1::::<><>::
+rock_in_water_01.png::CompressedTexture2D::2428673177672030967::1700309191::1700310553::1::::<><>::
+rock_in_water_02.png::CompressedTexture2D::2402351667543763339::1700309191::1700310553::1::::<><>::
+rock_in_water_03.png::CompressedTexture2D::7612222342915864141::1700309191::1700310553::1::::<><>::
+rock_in_water_04.png::CompressedTexture2D::4344673596365585248::1700309191::1700310553::1::::<><>::
+rock_in_water_05.png::CompressedTexture2D::6663833341595664144::1700309191::1700310553::1::::<><>::
+rock_in_water_06.png::CompressedTexture2D::6219826291648086102::1700309191::1700310553::1::::<><>::
+::res://art/particles/::1700310553
+dust_particles_01.png::CompressedTexture2D::342761585993344724::1700309191::1700310553::1::::<><>::
+::res://art/tilesets/::1700310553
+decor_8x8.png::CompressedTexture2D::1149111138973382764::1700309191::1700310553::1::::<><>::
+decor_16x16.png::CompressedTexture2D::7832716655001248836::1700309191::1700310553::1::::<><>::
+fences.png::CompressedTexture2D::1475581603123105696::1700309191::1700310553::1::::<><>::
+grass.png::CompressedTexture2D::8080125043177529665::1700309191::1700310553::1::::<><>::
+plains.png::CompressedTexture2D::3107513049541695899::1700309191::1700310553::1::::<><>::
+water1.png::CompressedTexture2D::1978214977432790862::1700309191::1700310553::1::::<><>::
+water2.png::CompressedTexture2D::5631192299920576888::1700309191::1700310553::1::::<><>::
+water3.png::CompressedTexture2D::2657492053667965296::1700309191::1700310553::1::::<><>::
+water4.png::CompressedTexture2D::2668790040208044469::1700309191::1700310553::1::::<><>::
+water5.png::CompressedTexture2D::5493528066389355202::1700309191::1700310553::1::::<><>::
+water6.png::CompressedTexture2D::4184431568671002880::1700309191::1700310553::1::::<><>::
+water_decorations.png::CompressedTexture2D::7202730625832898276::1700309191::1700310553::1::::<><>::
+water_lillies.png::CompressedTexture2D::6322954739519001581::1700309191::1700310553::1::::<><>::
+::res://art/tilesets/floors/::1700310553
+carpet.png::CompressedTexture2D::249602909743185482::1700309191::1700310553::1::::<><>::
+flooring.png::CompressedTexture2D::7190493275627278379::1700309191::1700310553::1::::<><>::
+wooden.png::CompressedTexture2D::8613963239128784882::1700309191::1700310553::1::::<><>::
+::res://art/tilesets/walls/::1700310553
+walls.png::CompressedTexture2D::5505437661313315021::1700309191::1700310553::1::::<><>::
+wooden_door.png::CompressedTexture2D::6247306854296444489::1700309191::1700310553::1::::<><>::
+wooden_door_b.png::CompressedTexture2D::2056619473641974368::1700309191::1700310553::1::::<><>::
+::res://scenes/::1700316348
+player.tscn::PackedScene::8535956065029073820::1700316348::0::1::::<><>::res://scripts/player.gd<>uid://hi1bkfxe6oyi::::res://art/characters/player.png
+world.tscn::PackedScene::9188290923171729668::1700316286::0::1::::<><>::
+::res://scripts/::1700316348
+player.gd::GDScript::-1::1700316348::0::1::::<>CharacterBody2D<>::
