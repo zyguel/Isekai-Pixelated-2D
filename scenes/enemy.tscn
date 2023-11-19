@@ -139,7 +139,7 @@ script = ExtResource("1_4ldoi")
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
 sprite_frames = SubResource("SpriteFrames_vjg4d")
 animation = &"idle"
-frame_progress = 0.6485
+frame_progress = 0.47903
 offset = Vector2(0, -6)
 
 [node name="detection_area" type="Area2D" parent="."]
