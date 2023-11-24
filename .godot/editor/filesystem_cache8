@@ -1,5 +1,6 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1700404109
+::res://::1700814888
+Control.gd::GDScript::-1::1700807035::0::1::::<>Control<>::
 icon.svg::CompressedTexture2D::7092983735060185083::1700394177::1700394177::1::::<><>::
 README.md::TextFile::-1::1700394177::0::1::::<><>::
 ::res://art/::1700394177
@@ -77,8 +78,14 @@ wooden.png::CompressedTexture2D::8613963239128784882::1700394177::1700394177::1:
 walls.png::CompressedTexture2D::5505437661313315021::1700394177::1700394177::1::::<><>::
 wooden_door.png::CompressedTexture2D::6247306854296444489::1700394177::1700394177::1::::<><>::
 wooden_door_b.png::CompressedTexture2D::2056619473641974368::1700394177::1700394177::1::::<><>::
-::res://scenes/::1700404099
-player.tscn::PackedScene::8535956065029073820::1700404099::0::1::::<><>::res://scripts/player.gd<>uid://hi1bkfxe6oyi::::res://art/characters/player.png
-world.tscn::PackedScene::9188290923171729668::1700404099::0::1::::<><>::uid://bkjkjyrrk2qpf::::res://art/tilesets/plains.png<>uid://dnecqjwi5dnif::::res://art/tilesets/grass.png<>uid://oxqyhlnxp23b::::res://art/objects/objects.png<>uid://dtu47jmgwyoae::::res://scenes/player.tscn
-::res://scripts/::1700394177
-player.gd::GDScript::-1::1700394177::0::1::::<>CharacterBody2D<>::
+::res://backgrounds/::1700810008
+background.ogv::VideoStreamTheora::-1::1700809990::0::1::::<><>::
+::res://scenes/::1700814895
+enemy.gd::GDScript::-1::1700814153::0::1::::<>CharacterBody2D<>::
+enemy.tscn::PackedScene::8785261247737694641::1700814916::0::1::::<><>::res://scenes/enemy.gd<>uid://c5jem3hds3ayi::::res://art/characters/slime.png
+main_menu.tscn::PackedScene::8516859995208943131::1700814634::0::1::::<><>::
+player.tscn::PackedScene::8535956065029073820::1700814634::0::1::::<><>::res://scripts/player.gd<>uid://hi1bkfxe6oyi::::res://art/characters/player.png
+world.tscn::PackedScene::9188290923171729668::1700814634::0::1::::<><>::uid://bkjkjyrrk2qpf::::res://art/tilesets/plains.png<>uid://dnecqjwi5dnif::::res://art/tilesets/grass.png<>uid://oxqyhlnxp23b::::res://art/objects/objects.png<>uid://dtu47jmgwyoae::::res://scenes/player.tscn<>uid://dxfv77ny5cmrp::::res://scenes/enemy.tscn
+::res://scripts/::1700814895
+global.gd::GDScript::-1::1700814895::0::1::::<>Node<>::
+player.gd::GDScript::-1::1700814627::0::1::::<>CharacterBody2D<>::

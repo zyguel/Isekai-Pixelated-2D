@@ -1,6 +1,15 @@
-Camera2D
+Timer
 CollisionShape2D
 Area2D
+VideoStreamPlayer
+Button
+PanelContainer
+TextureButton
+Camera2D
+TextureRect
+AnimationPlayer
+HTTPRequest
+Window
 AnimatedSprite2D
 CharacterBody2D
 TileMap
